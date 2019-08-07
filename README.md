@@ -18,6 +18,10 @@ A wish list of things that might be added to the site (also see the [issues boar
 - minimal advertising (promo links on a bag or brand, search specific ads based on comparable dimensions/volumes of bags, etc)
 - infrastructure expansion based on traffic
 
+## Contact
+
+Please [open an issue here](https://github.com/bagsvsairlines/BagsVsAirlines/issues) to get in touch. 
+
 ### Notes
 
 #### Measuments
