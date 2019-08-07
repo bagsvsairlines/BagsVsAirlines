@@ -27,7 +27,7 @@ Please [open an issue here](https://github.com/bagsvsairlines/BagsVsAirlines/iss
 #### Measuments
 - bags are stored so that the longest measurement is the height, for consistency. This also means that messengers/briefcase style bags will be rotated 90˚ from their published dimensions.
 - dimensional measures are stored in millimeters
-- bag volume is stored as litres
+- bag volume is stored as litres, rounded down (because black magic is more predictable that bag volumes)
 - bag wieght is stored as grams
 
 #### Rounding
