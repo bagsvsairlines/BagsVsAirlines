@@ -9,6 +9,8 @@ Bags vs. Airlines is a simple site that exists to provide information about what
 
 There are no tracking scripts or cookies used by the site. This increases privacy and speeds loading times. Advertisments may appear in the future, because infrastructure costs money. In that case, they will be minimally intrusive and will not have trackers or cookies.
 
+Some airlines allow a personal item, but don't specify a size for it. In that case, 40x30x20 cm is used as a generic size. If no size is given and there's a mention of the personal item needing to be "slim" 40x30x15 cm is used.
+
 ## Future plans
 
 A wish list of things that might be added to the site (also see the [issues board](https://github.com/bagsvsairlines/BagsVsAirlines/labels/enhancement)):
